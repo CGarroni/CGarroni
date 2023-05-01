@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Eu sou Francisco Garroni, sou programador Front End, atualmente estou aprendendo  e criando projetos em:
-
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-    
+Eu sou Francisco Garroni, sou programador Front End, atualmente  estou aprendendo e criando projet em:
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />

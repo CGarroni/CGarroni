@@ -8,27 +8,23 @@ Estudante de Engenharia de Software (graduação Dez/2026) 🇧🇷 desenvolvend
 - 🔭 **Atualmente construindo**: Fullstack React + TypeScript + Tailwind + Supabase (Spa-LisianeGarroni)
 - 🌱 **Stack principal**: React, Next.js, TypeScript, Tailwind CSS, Supabase, Node.js, MongoDB, n8n
 - 💼 **Experiência**: 14+ anos em manutenção técnica (eletrônicos/hospitalar) + freelance fullstack
-- 🎮 **Hobbies**: Gaming (PS5), edição foto/vídeo, automação de negócios
+- 🎮 **Hobbies**: Edição foto/vídeo, automação de negócios
 - 📍 Novo Hamburgo, RS - Aberto a estágios/junior dev
 
 ## ✨ Projetos em Destaque
-[![Spa Lisiane Garroni](https://github-readme-stats.vercel.app/api/pin/?username=CGarroni&repo=Spa-LisianeGarroni&theme=radical)](https://github.com/CGarroni/Spa-LisianeGarroni)
-[![Potinho Doce](https://github-readme-stats.vercel.app/api/pin/?username=CGarroni&repo=potinho-doce&theme=radical)](https://github.com/CGarroni/potinho-doce)
-[![OdontoTécnica](https://github-readme-stats.vercel.app/api/pin/?username=CGarroni&repo=odontologica-website&theme=radical)](https://github.com/CGarroni/odontologica-website)
+- **[Spa-LisianeGarroni](https://github.com/CGarroni/Spa-LisianeGarroni)** ⭐ Fullstack React + Supabase em progresso
+- **[Potinho Doce](https://github.com/CGarroni/potinho-doce)** ⭐ E-commerce responsivo
+- **[OdontoTécnica](https://github.com/CGarroni/odontologica-website)** ⭐ Site institucional
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGarroni&layout=compact&theme=radical&hide_border=true)
 
 ## 🤝 Vamos Conectar!
 - 📧 Email: chicogarroni@gmail.com
